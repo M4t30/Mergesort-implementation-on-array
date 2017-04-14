@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\agh university of science and technology\rok i semestr ii\algorytmy i struktury danych\laboratoria\aisd_merge_sort_array\aisd_merge_sort_array\source.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AiSD_merge_sort_array.vcxproj -> D:\AGH University of science and technology\Rok I Semestr II\Algorytmy i struktury danych\laboratoria\AiSD_merge_sort_array\Debug\AiSD_merge_sort_array.exe
+  AiSD_merge_sort_array.vcxproj -> D:\AGH University of science and technology\Rok I Semestr II\Algorytmy i struktury danych\laboratoria\AiSD_merge_sort_array\Debug\AiSD_merge_sort_array.pdb (Partial PDB)
